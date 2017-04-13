@@ -6,9 +6,10 @@ npm install
 or
 ```js
 yarn
-to install missing js packages
 ```
-Run
+to install missing js packages
+
+After that, run
 ```js
 react-native run-ios
 ```
