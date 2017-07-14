@@ -1,4 +1,7 @@
 # demo-video-streaming
+
+Change `DOWNLOAD_FILE_PATH` and `STREAM_PATH` in `./src/constants.js` to your paths
+
 Run 
 ```js
 npm install 
@@ -17,4 +20,3 @@ or
 ```js
 react-native run-android
 ```
-Change `DOWNLOAD_FILE_PATH` and `STREAM_PATH` in `./src/constants.js` to your paths
