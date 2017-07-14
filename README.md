@@ -17,3 +17,4 @@ or
 ```js
 react-native run-android
 ```
+Change `DOWNLOAD_FILE_PATH` and `STREAM_PATH` in `./src/constants.js` to your paths
